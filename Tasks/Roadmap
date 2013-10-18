@@ -1,0 +1,8 @@
+RoadMap of ToDoList
+===================
+
+Aim: create a simple todolist and then make it have some advanced feature
+
+TDL-1 : Design the todolist user interface
+TDL-2 : create a user interface for the todolist screen 
+TDL-3 : create a sqllite design 
